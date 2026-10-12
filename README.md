@@ -55,6 +55,7 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 - [QuTiP](http://qutip.org/) – Quantum Toolbox in Python, for simulating quantum systems.
 - [PennyLane](https://pennylane.ai/) – Hybrid quantum machine learning and differentiable programming.
 - [Ocean SDK](https://docs.ocean.dwavesys.com/en/stable/) – D-Wave’s SDK for quantum annealing.
+- [FSharp.Azure.Quantum](https://github.com/Thorium/FSharp.Azure.Quantum) – .NET Azure Quantum framework
 
 ## Simulators
 
@@ -70,6 +71,9 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 - [Rigetti Computing](https://www.rigetti.com/) – Superconducting quantum processors and cloud platform.
 - [D-Wave Systems](https://www.dwavesys.com/) – Quantum annealing and hybrid solvers.
 - [Xanadu](https://www.xanadu.ai/) – Photonic quantum computing hardware.
+- [Quantinuum](https://www.quantinuum.com/) - Trapped ion quantum computers
+- [Atom Computing](https://atom-computing.com/) - Gate-based quantum computers with arrays of optically-trapped neutral atoms
+- [IQM](https://iqm.tech/) - Superconducting full-stack quantum computers
 
 ## APIs & SDKs
 
@@ -83,6 +87,8 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 - [Shor’s Algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm) – Integer factorization algorithm for breaking RSA encryption.
 - [QAOA](https://en.wikipedia.org/wiki/Quantum_approximate_optimization_algorithm) – Quantum algorithm for combinatorial optimization.
 - [Variational Quantum Eigensolver (VQE)](https://en.wikipedia.org/wiki/Variational_quantum_eigensolver) – Hybrid quantum-classical algorithm.
+- [QFT](https://en.wikipedia.org/wiki/Quantum_Fourier_transform) - Quantum Fourier transform
+- [AA](https://en.wikipedia.org/wiki/Amplitude_amplification) - Amplitude Amplification
 
 ## Quantum Programming Languages
 
