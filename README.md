@@ -43,7 +43,7 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 
 ## Courses
 
-- [edX: Quantum Mechanics and Quantum Computation (Berkeley)](https://www.edx.org/course/quantum-mechanics-and-quantum-computation)
+- [Online Course on Quantum Computing](https://simons.berkeley.edu/news/online-course-quantum-computing)
 - [MIT OpenCourseWare – Quantum Physics](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/)
 - [Braket Developer Guide (AWS)](https://docs.aws.amazon.com/braket/index.html) – Learn to build with Amazon Braket.
 - [IBM Quantum Courses](https://learn.qiskit.org/) – Free online courses on quantum programming with Qiskit.
@@ -58,8 +58,8 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 
 ## Simulators
 
-- [Qiskit Aer](https://qiskit.org/documentation/apidoc/aer.html) – High-performance quantum circuit simulator.
-- [Cirq Simulator](https://quantumai.google/cirq/simulators) – Built-in quantum simulators in Cirq.
+- [Qiskit Aer](https://quantum.cloud.ibm.com/docs/en/api/qiskit/aer) – High-performance quantum circuit simulator.
+- [Cirq Simulator](https://quantumai.google/cirq/simulate) – Built-in quantum simulators in Cirq.
 - [Quantum Exact Simulation Toolkit (QuEST)](https://github.com/QuEST-Kit/QuEST) – Fast and scalable simulator for high-performance environments.
 - [ProjectQ](https://projectq.ch/) – Open-source quantum computing framework with a built-in simulator.
 
